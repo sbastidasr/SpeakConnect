@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AA207C97-EB87-48BA-B304-273BB7D9C28A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RemoteControl</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>019DE261136A70AC9F8AD0BB88F71DA1AD800E31</key>
+		<string>https://github.com/sbastidasr/SpeakConnect.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RemoteControl.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>019DE261136A70AC9F8AD0BB88F71DA1AD800E31</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sbastidasr/SpeakConnect.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>019DE261136A70AC9F8AD0BB88F71DA1AD800E31</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>019DE261136A70AC9F8AD0BB88F71DA1AD800E31</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SpeakConnect</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -54,7 +54,6 @@
 		EA93FABA1B30882A0006317F /* AddFriendsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EA93FAB91B30882A0006317F /* AddFriendsViewController.m */; };
 		EA93FABD1B3095CD0006317F /* FriendTVC.m in Sources */ = {isa = PBXBuildFile; fileRef = EA93FABC1B3095CD0006317F /* FriendTVC.m */; };
 		EA93FAC11B30A47E0006317F /* todo.txt in Resources */ = {isa = PBXBuildFile; fileRef = EA93FAC01B30A47E0006317F /* todo.txt */; };
-		EA93FAC41B31E3870006317F /* HateLove.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EA93FAC31B31E3870006317F /* HateLove.mp3 */; };
 		EA93FAC71B31E7850006317F /* Helpers.m in Sources */ = {isa = PBXBuildFile; fileRef = EA93FAC61B31E7850006317F /* Helpers.m */; };
 		EAE0CE8C1B35C56B000F9248 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EAE0CE8B1B35C56B000F9248 /* SettingsViewController.m */; };
 		EAE0CE8F1B3868DF000F9248 /* MessageListTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EAE0CE8E1B3868DF000F9248 /* MessageListTableViewController.m */; };
@@ -130,7 +129,6 @@
 		EA93FABB1B3095CD0006317F /* FriendTVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FriendTVC.h; sourceTree = "<group>"; };
 		EA93FABC1B3095CD0006317F /* FriendTVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FriendTVC.m; sourceTree = "<group>"; };
 		EA93FAC01B30A47E0006317F /* todo.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = todo.txt; sourceTree = "<group>"; };
-		EA93FAC31B31E3870006317F /* HateLove.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = HateLove.mp3; path = ../../../../../../Downloads/HateLove.mp3; sourceTree = "<group>"; };
 		EA93FAC51B31E7850006317F /* Helpers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Helpers.h; sourceTree = "<group>"; };
 		EA93FAC61B31E7850006317F /* Helpers.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Helpers.m; sourceTree = "<group>"; };
 		EAE0CE8A1B35C56B000F9248 /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
@@ -272,7 +270,6 @@
 				4692491117FB26AC002652EF /* RCAppDelegate.m */,
 				EA93FAB61B3078A20006317F /* HateLove2.mp3 */,
 				4692490917FB26AC002652EF /* RemoteControl-Info.plist */,
-				EA93FAC31B31E3870006317F /* HateLove.mp3 */,
 				4692490A17FB26AC002652EF /* InfoPlist.strings */,
 				4692490D17FB26AC002652EF /* main.m */,
 				4692490F17FB26AC002652EF /* RemoteControl-Prefix.pch */,
@@ -432,7 +429,6 @@
 				EA18D80C1B3A6A58005BC636 /* HockeySDKResources.bundle in Resources */,
 				4692490C17FB26AC002652EF /* InfoPlist.strings in Resources */,
 				EA93FAB71B3078A20006317F /* HateLove2.mp3 in Resources */,
-				EA93FAC41B31E3870006317F /* HateLove.mp3 in Resources */,
 				4692491517FB26AC002652EF /* Main.storyboard in Resources */,
 				EA93FAC11B30A47E0006317F /* todo.txt in Resources */,
 				EA18D80B1B3A6A58005BC636 /* HockeySDK.xcconfig in Resources */,
