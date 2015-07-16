@@ -1,0 +1,8 @@
+//status
+//need to do something like caching but with pinning
+
+
+//add friends VC.
+
+
+Imagine navigaton controlled by headphones.
